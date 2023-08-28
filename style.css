@@ -1,0 +1,32 @@
+/***common style*/
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+/**herder-area*/
+header {
+    background-image: url(images/banner/banner2.png);
+    background-repeat: no-repeat;
+    padding: 150px;
+}
+
+.header-area {
+    margin-left: 500px;
+}
+
+.header-title {
+    font-size: 40px;
+}
+
+.header-text {
+    font-size: 16px;
+    color: dimgrey;
+}
+
+.btn-color {
+    background-color: #F15B22;
+    color: aliceblue;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
