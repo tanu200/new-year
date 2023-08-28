@@ -19,7 +19,7 @@ header {
 }
 
 .header-text {
-    font-size: 16px;
+    font-size: 14px;
     color: dimgrey;
 }
 
@@ -29,4 +29,27 @@ header {
     border: none;
     padding: 10px 15px;
     border-radius: 5px;
+}
+
+/**failur-year**/
+.failur-year {
+    display: flex;
+    align-items: center;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+
+.failur-title {
+    font-size: 30px;
+}
+
+.failur-text {
+    margin-left: 50px;
+}
+
+.images-area {
+    background-image: url(images/watch.png);
+    padding: 50px;
+    background-repeat: no-repeat;
+    margin-left: 40px;
 }
